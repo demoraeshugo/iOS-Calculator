@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+    <filter id="Backdrop_Elements_Front_Layer" x="0" y="82" width="375" height="730" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_377" x="72" y="726" width="231" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1794" x="153" y="291" width="70" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_386" x="108" y="291" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_385" x="202" y="291" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1792" x="153" y="455" width="70" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_386-2" x="108" y="455" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_385-2" x="202" y="455" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1793" x="153" y="619" width="70" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_386-3" x="108" y="619" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_385-3" x="202" y="619" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_Input">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_Input" data-name="iPhone X/XS/11 Pro – Input" clip-path="url(#clip-iPhone_X_XS_11_Pro_Input)">
+    <rect width="375" height="812" fill="#414770"/>
+    <g id="App_Bar_Top_App_Bar_Regular_Raised_Primary_Color" data-name="App Bar / Top App Bar / Regular / Raised / Primary Color" transform="translate(0 24)">
+      <path id="Surface" d="M75-1383H450v-56H75Z" transform="translate(-75 1439)" fill="#414770"/>
+      <g id="Icon_Menu_Filled" data-name="Icon / Menu / Filled" transform="translate(16 16)" clip-path="url(#clip-path)">
+        <rect id="Box" width="24" height="24" fill="none"/>
+        <path id="Icon_Menu" data-name="Icon / Menu" d="M99-1400h18v-2H99Zm0-5h18v-2H99Zm0-7v2h18v-2Z" transform="translate(-96 1418)" fill="#fff"/>
+      </g>
+      <g id="Icon_Search_Filled" data-name="Icon / Search / Filled" transform="translate(335 16)">
+        <rect id="Box-2" data-name="Box" width="24" height="24" fill="none"/>
+      </g>
+      <g id="Icon_Favorite_Filled" data-name="Icon / Favorite / Filled" transform="translate(335 16)" clip-path="url(#clip-path)">
+        <rect id="Box-3" data-name="Box" width="24" height="24" fill="none"/>
+        <path id="Icon_Favorite" data-name="Icon / Favorite" d="M364-1396.65l-1.45-1.32c-5.15-4.67-8.55-7.75-8.55-11.53a5.447,5.447,0,0,1,5.5-5.5,5.989,5.989,0,0,1,4.5,2.09,5.989,5.989,0,0,1,4.5-2.09,5.447,5.447,0,0,1,5.5,5.5c0,3.78-3.4,6.86-8.55,11.54Z" transform="translate(-352 1418)" fill="#fff"/>
+      </g>
+      <g id="Icon_Share_Filled" data-name="Icon / Share / Filled" transform="translate(285 16)" clip-path="url(#clip-path)">
+        <rect id="Box-4" data-name="Box" width="24" height="24" fill="none"/>
+        <path id="Icon_Share" data-name="Icon / Share" d="M322-1401.92a2.912,2.912,0,0,0-1.96.77l-7.13-4.15a3.274,3.274,0,0,0,.09-.7,3.274,3.274,0,0,0-.09-.7l7.05-4.11a2.987,2.987,0,0,0,2.04.81,3,3,0,0,0,3-3,3,3,0,0,0-3-3,3,3,0,0,0-3,3,3.274,3.274,0,0,0,.09.7l-7.05,4.11A2.987,2.987,0,0,0,310-1409a3,3,0,0,0-3,3,3,3,0,0,0,3,3,2.987,2.987,0,0,0,2.04-.81l7.12,4.16a2.821,2.821,0,0,0-.08.65,2.923,2.923,0,0,0,2.92,2.92,2.923,2.923,0,0,0,2.92-2.92A2.923,2.923,0,0,0,322-1401.92Z" transform="translate(-304 1418)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="System_Bar_Primary" data-name="System Bar / Primary">
+      <rect id="Rectangle_373" data-name="Rectangle 373" width="375" height="24" fill="#666fb1"/>
+      <path id="Icons" d="M23-10a5,5,0,0,1,5,5,5,5,0,0,1-5,5,5,5,0,0,1-5-5A5,5,0,0,1,23-10ZM40,0,34-10H46ZM0-10H10V0H0Z" transform="translate(322 17)" fill="#b4b9dd" fill-rule="evenodd"/>
+    </g>
+    <g id="Backdrop_Elements_Front_Layer-2" data-name="Backdrop / Elements / Front Layer" transform="translate(4.5 85.5)">
+      <g transform="matrix(1, 0, 0, 1, -4.5, -85.5)" filter="url(#Backdrop_Elements_Front_Layer)">
+        <path id="Backdrop_Elements_Front_Layer-3" data-name="Backdrop / Elements / Front Layer" d="M4,0H362a4,4,0,0,1,4,4V721a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(4.5 85.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Buttons_Contained_Enabled" data-name="Buttons / Contained / Enabled" transform="translate(76.5 729.5)">
+      <g transform="matrix(1, 0, 0, 1, -76.5, -729.5)" filter="url(#Rectangle_377)">
+        <rect id="Rectangle_377-2" data-name="Rectangle 377" width="222" height="56" rx="25" transform="translate(76.5 729.5)" fill="#666fb1"/>
+      </g>
+      <text id="CALCULATE" transform="translate(55.5 35.5)" fill="#fff" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">CALCULATE</tspan></text>
+    </g>
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(117 297)">
+      <g transform="matrix(1, 0, 0, 1, -117, -297)" filter="url(#Path_1794)">
+        <path id="Path_1794-2" data-name="Path 1794" d="M0,0H52V48H0Z" transform="translate(162 297)" fill="#666fb1"/>
+      </g>
+      <g id="Component_1_2" data-name="Component 1 – 2">
+        <g id="Toggle_Left_Focus" data-name="Toggle / Left / Focus">
+          <g transform="matrix(1, 0, 0, 1, -117, -297)" filter="url(#Rectangle_386)">
+            <path id="Rectangle_386-4" data-name="Rectangle 386" d="M24,0H48a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H24A24,24,0,0,1,0,24v0A24,24,0,0,1,24,0Z" transform="translate(117 297)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="Toggle_Left_Active" data-name="Toggle / Left / Active" transform="translate(94)">
+          <g transform="matrix(1, 0, 0, 1, -211, -297)" filter="url(#Rectangle_385)">
+            <path id="Rectangle_385-4" data-name="Rectangle 385" d="M0,0H24A24,24,0,0,1,48,24v0A24,24,0,0,1,24,48H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(211 297)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(11.5 13.5)">
+          <g id="Icon_Add_Filled" data-name="Icon / Add / Filled">
+            <rect id="Box-5" data-name="Box" width="24" height="24" fill="none"/>
+            <rect id="Rectangle_392" data-name="Rectangle 392" width="2" height="14" transform="translate(19 11) rotate(90)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled-2" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(106.5 12.5)">
+          <g id="Icon_Add_Filled-2" data-name="Icon / Add / Filled">
+            <rect id="Box-6" data-name="Box" width="24" height="24" fill="none"/>
+            <path id="_" data-name="+" d="M6,14V8H0V6H6V0H8V6h6V8H8v6Z" transform="translate(5 5)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Text_Field_Outlined_Unfilled_Enabled" data-name="Text Field / Outlined / Unfilled / Enabled" transform="translate(24 202)">
+      <g id="Surface-2" data-name="Surface" fill="none" stroke="#414770" stroke-width="1" opacity="0.5">
+        <rect width="328" height="56" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="327" height="55" rx="3.5" fill="none"/>
+      </g>
+      <text id="Total" transform="translate(16 33)" fill="#414770" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Total</tspan></text>
+      <text id="Enter_the_total_amount_on_your_check" data-name="Enter the total amount on your check" transform="translate(16 71)" fill="#414770" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.034em" opacity="0.5"><tspan x="0" y="0">Enter the total amount on your check</tspan></text>
+    </g>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(117 461)">
+      <g transform="matrix(1, 0, 0, 1, -117, -461)" filter="url(#Path_1792)">
+        <path id="Path_1792-2" data-name="Path 1792" d="M0,0H52V48H0Z" transform="translate(162 461)" fill="#666fb1"/>
+      </g>
+      <g id="Component_1_3" data-name="Component 1 – 3">
+        <g id="Toggle_Left_Focus-2" data-name="Toggle / Left / Focus">
+          <g transform="matrix(1, 0, 0, 1, -117, -461)" filter="url(#Rectangle_386-2)">
+            <path id="Rectangle_386-5" data-name="Rectangle 386" d="M24,0H48a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H24A24,24,0,0,1,0,24v0A24,24,0,0,1,24,0Z" transform="translate(117 461)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="Toggle_Left_Active-2" data-name="Toggle / Left / Active" transform="translate(94)">
+          <g transform="matrix(1, 0, 0, 1, -211, -461)" filter="url(#Rectangle_385-2)">
+            <path id="Rectangle_385-5" data-name="Rectangle 385" d="M0,0H24A24,24,0,0,1,48,24v0A24,24,0,0,1,24,48H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(211 461)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled-3" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(11.5 13.5)">
+          <g id="Icon_Add_Filled-3" data-name="Icon / Add / Filled">
+            <rect id="Box-7" data-name="Box" width="24" height="24" fill="none"/>
+            <rect id="Rectangle_392-2" data-name="Rectangle 392" width="2" height="14" transform="translate(19 11) rotate(90)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled-4" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(106.5 12.5)">
+          <g id="Icon_Add_Filled-4" data-name="Icon / Add / Filled">
+            <rect id="Box-8" data-name="Box" width="24" height="24" fill="none"/>
+            <path id="_2" data-name="+" d="M6,14V8H0V6H6V0H8V6h6V8H8v6Z" transform="translate(5 5)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Text_Field_Outlined_Unfilled_Enabled-2" data-name="Text Field / Outlined / Unfilled / Enabled" transform="translate(24 366)">
+      <g id="Surface-3" data-name="Surface" fill="none" stroke="#414770" stroke-width="1" opacity="0.5">
+        <rect width="328" height="56" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="327" height="55" rx="3.5" fill="none"/>
+      </g>
+      <text id="Parties" transform="translate(16 33)" fill="#414770" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Parties</tspan></text>
+      <text id="Enter_how_many_ways_to_split_the_bill" data-name="Enter how many ways to split the bill" transform="translate(16 71)" fill="#414770" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.034em" opacity="0.5"><tspan x="0" y="0">Enter how many ways to split the bill</tspan></text>
+    </g>
+    <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(117 625)">
+      <g transform="matrix(1, 0, 0, 1, -117, -625)" filter="url(#Path_1793)">
+        <path id="Path_1793-2" data-name="Path 1793" d="M0,0H52V48H0Z" transform="translate(162 625)" fill="#666fb1"/>
+      </g>
+      <g id="Component_1_4" data-name="Component 1 – 4">
+        <g id="Toggle_Left_Focus-3" data-name="Toggle / Left / Focus">
+          <g transform="matrix(1, 0, 0, 1, -117, -625)" filter="url(#Rectangle_386-3)">
+            <path id="Rectangle_386-6" data-name="Rectangle 386" d="M24,0H48a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H24A24,24,0,0,1,0,24v0A24,24,0,0,1,24,0Z" transform="translate(117 625)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="Toggle_Left_Active-3" data-name="Toggle / Left / Active" transform="translate(94)">
+          <g transform="matrix(1, 0, 0, 1, -211, -625)" filter="url(#Rectangle_385-3)">
+            <path id="Rectangle_385-6" data-name="Rectangle 385" d="M0,0H24A24,24,0,0,1,48,24v0A24,24,0,0,1,24,48H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(211 625)" fill="#414770"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled-5" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(11.5 13.5)">
+          <g id="Icon_Add_Filled-5" data-name="Icon / Add / Filled">
+            <rect id="Box-9" data-name="Box" width="24" height="24" fill="none"/>
+            <rect id="Rectangle_392-3" data-name="Rectangle 392" width="2" height="14" transform="translate(19 11) rotate(90)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="FAB_Mini_Circular_Primary_Color_Enabled-6" data-name="FAB / Mini / Circular / Primary Color / Enabled" transform="translate(106.5 12.5)">
+          <g id="Icon_Add_Filled-6" data-name="Icon / Add / Filled">
+            <rect id="Box-10" data-name="Box" width="24" height="24" fill="none"/>
+            <path id="_3" data-name="+" d="M6,14V8H0V6H6V0H8V6h6V8H8v6Z" transform="translate(5 5)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Text_Field_Outlined_Unfilled_Enabled-3" data-name="Text Field / Outlined / Unfilled / Enabled" transform="translate(24 530)">
+      <g id="Surface-4" data-name="Surface" fill="none" stroke="#414770" stroke-width="1" opacity="0.5">
+        <rect width="328" height="56" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="327" height="55" rx="3.5" fill="none"/>
+      </g>
+      <text id="Tip" transform="translate(16 33)" fill="#414770" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Tip</tspan></text>
+      <text id="Enter_the_desired_percent_tip" data-name="Enter the desired percent tip" transform="translate(16 71)" fill="#414770" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.034em" opacity="0.5"><tspan x="0" y="0">Enter the desired percent tip</tspan></text>
+    </g>
+    <g id="_Text_H1_Selected_On_Surface_High_Emphasis_Left" data-name="✱ / Text / H1 / Selected / On Surface / High Emphasis / Left" transform="translate(56 102)">
+      <text id="_Text_H1_Selected_On_Surface_High_Emphasis_Left-2" data-name="✱ / Text / H1 / Selected / On Surface / High Emphasis / Left" transform="translate(0 63)" fill="#414770" font-size="50" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="-0.016em"><tspan x="0" y="0">to</tspan><tspan y="0" fill="#666fb1" font-size="60">/</tspan><tspan y="0">tal - sp</tspan><tspan y="0" fill="#666fb1" font-size="60">/</tspan><tspan y="0">lit</tspan></text>
+    </g>
+  </g>
+</svg>

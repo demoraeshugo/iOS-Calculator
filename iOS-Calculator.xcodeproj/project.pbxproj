@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF11138624CA4E75000AA240 /* iPhone X-XS-11 Pro – Input.svg in Resources */ = {isa = PBXBuildFile; fileRef = BF11138524CA4E75000AA240 /* iPhone X-XS-11 Pro – Input.svg */; };
 		BF4CA0C824C87BA000A9B1B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4CA0C724C87BA000A9B1B9 /* AppDelegate.swift */; };
 		BF4CA0CA24C87BA000A9B1B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4CA0C924C87BA000A9B1B9 /* SceneDelegate.swift */; };
 		BF4CA0CC24C87BA000A9B1B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF4CA0CB24C87BA000A9B1B9 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF11138524CA4E75000AA240 /* iPhone X-XS-11 Pro – Input.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "iPhone X-XS-11 Pro – Input.svg"; sourceTree = "<group>"; };
 		BF4CA0C424C87BA000A9B1B9 /* iOS-Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF4CA0C724C87BA000A9B1B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF4CA0C924C87BA000A9B1B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		BF4CA0C624C87BA000A9B1B9 /* iOS-Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				BF11138524CA4E75000AA240 /* iPhone X-XS-11 Pro – Input.svg */,
 				BF4CA0C724C87BA000A9B1B9 /* AppDelegate.swift */,
 				BF4CA0C924C87BA000A9B1B9 /* SceneDelegate.swift */,
 				BF4CA0CB24C87BA000A9B1B9 /* ContentView.swift */,
@@ -242,6 +245,7 @@
 			files = (
 				BF4CA0D424C87BA800A9B1B9 /* LaunchScreen.storyboard in Resources */,
 				BF4CA0D124C87BA800A9B1B9 /* Preview Assets.xcassets in Resources */,
+				BF11138624CA4E75000AA240 /* iPhone X-XS-11 Pro – Input.svg in Resources */,
 				BF4CA0CE24C87BA700A9B1B9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
